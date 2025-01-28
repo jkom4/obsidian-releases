@@ -14983,7 +14983,7 @@
     "id": "pdf-writer",
     "name": "PDF Writer",
     "author": "Jobelin KOM",
-    "description": "obsidian plugin to write and fill a pdf.",
+    "description": "to write and fill a pdf.",
     "repo": "jkom4/obsidian-pdf-writer"
   }
 ]
